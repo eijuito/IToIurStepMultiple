@@ -37,6 +37,7 @@ PS: The speed value is inverted, that is, the higher the set value, the lower th
 
 ![Image of the logic analyzer with steps for each of the 7 motors](https://raw.githubusercontent.com/eijuito/IToIurStepMultiple/c3522bf4d2c3a737f65c52145cb95d551181c241/res/img/IToIurStepMultiple-LogicAnaliser.png)
 
+(https://forum.arduino.cc/index.php?topic=735452.0)
 
 # ITo Iur Step Multiple
 
